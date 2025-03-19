@@ -10,3 +10,8 @@ Personally, I also wanted to use Val.town and SQLlite, and I found a simple book
 
 ### How does it work?
 Bookmarklets offer a simple way to extend the functionality of the browser. This is a simple, helpful guide to [learn more about bookmarklets and how/why to use them](https://www.freecodecamp.org/news/what-are-bookmarklets/).
+
+To get this working, you will need to fork [this val](https://www.val.town/v/juanca/bookmark), 
+and include the `ENV vars` mentioned in the README.
+
+You will also need a `FEEDBIN_TOKEN`, which you can get by logging in to your Feedbin account and navigating to `Feedbin > Settings > Pages > Bookmarklet`.
